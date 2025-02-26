@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=icon.ico --name="ImportExportClientes" --clean "import-export sqlite3.py"
